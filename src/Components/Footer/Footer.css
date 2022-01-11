@@ -1,0 +1,5 @@
+.Footer {
+	background-color: lightblue;
+    grid-area: 5 / 1 / 6 / 6;
+    /* height: 15vh; */
+}

@@ -1,0 +1,6 @@
+.Header {
+	background-color: lightcoral;
+    grid-area: 1 / 1 / 2 / 6;
+    /* height: 15vh; */
+}
+
